@@ -1,0 +1,81 @@
+body{ background-image: url(https://images.squarespace-cdn.com/content/v1/5497331ae4b0148a6141bd47/1495850380420-XLOEYOLWX2ZLHO9MQRKB/fall-of-carthage.jpg?format=1500w);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
+    header{
+        text-align: center;
+    }
+    
+    #Roman-thing{font-size: 60px;
+        margin: 30px 0 0 0;
+    }
+    
+    #SubRoman-thing{
+        font-style: italic;
+        font-size: 25;
+        color:blueviolet;
+        margin: 0;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color to #111 (black) on hover */
+      li a:hover {
+        background-color: #111;
+      }
+      
+    .featured{ 
+        font-style: italic;
+     margin: 20px 60px;
+     padding: 30px 60px;
+     background-color: #ccc;
+    
+    }
+    .featured-title{
+        font-style: italic;
+        font-size: 30px;
+        margin: 0;
+    }
+    .featured-excerpt{
+        font-style: italic;
+        font-size: 18px;
+    }
+    .news{
+        font-style: italic;
+        margin: 10px 60px;
+        padding: 20px 60px;
+        background-color: #ccc;
+    }
+    footer{text-align: end;
+    text-align: center;
+    background-color: #ccc ;
+    margin: 10px 10x;
+    padding: 23px 0;
+    opacity: 0.9;
+    }
+    .ending{
+        font-style: italic;
+        margin: 60px 90px;
+        padding: 20px 60px
+        background-color #ccc;
+    }

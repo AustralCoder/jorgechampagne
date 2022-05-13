@@ -41,8 +41,7 @@ body{ background-image: url(https://nu.aeon.co/images/f15e24fc-9b3c-4c05-bb89-02
         padding: 14px 16px;
         text-decoration: none;
       }
-      
-      /* Change the link color to #111 (black) on hover */
+
       li a:hover {
         background-color: #111;
       }
@@ -71,7 +70,7 @@ body{ background-image: url(https://nu.aeon.co/images/f15e24fc-9b3c-4c05-bb89-02
     }
     footer{text-align: end;
     text-align: center;
-    background-color: #ccc ;
+    background-color: rgb(103, 103, 120);
     margin: 10px 10x;
     padding: 23px 0;
     opacity: 0.8;

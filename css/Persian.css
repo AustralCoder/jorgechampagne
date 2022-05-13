@@ -40,7 +40,6 @@ body{ background-image: url(https://cdn.shopify.com/s/files/1/0441/9174/4160/pro
         text-decoration: none;
       }
       
-      /* Change the link color to #111 (black) on hover */
       li a:hover {
         background-color: #111;
       }
